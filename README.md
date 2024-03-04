@@ -36,5 +36,5 @@ I am a Full Stack (MERN) Developer <img src="https://media.giphy.com/media/WUlpl
 
 
 <div align="right">
-<a href="https://app.daily.dev/shahzaibshafiq"><img src="https://api.daily.dev/devcards/v2/9LlwIUtLmecqpXReLCeii.png?type=wide&r=vds" width="652" alt="SHAHZAIB SHAFIQ's Dev Card"/></a>
+<a href="https://app.daily.dev/shahzaibshafiq"><img src="https://api.daily.dev/devcards/v2/9LlwIUtLmecqpXReLCeii.png?type=wide&r=68k" width="652" alt="SHAHZAIB SHAFIQ's Dev Card"/></a>
 </div>
