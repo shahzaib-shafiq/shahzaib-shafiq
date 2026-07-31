@@ -37,11 +37,7 @@ I am a Full Stack AI Developer <img src="https://media.giphy.com/media/WUlplcMpO
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
   </a>
-
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/openai" alt="openai" width="40" height="40"/>
-  </a>
-
+  
   <a href="https://claude.ai/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/claude" alt="claude" width="40" height="40"/>
   </a>
