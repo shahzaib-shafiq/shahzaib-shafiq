@@ -51,11 +51,11 @@ I am a Full Stack AI Developer <img src="https://media.giphy.com/media/WUlplcMpO
   </a>
 
   <a href="https://chatgpt.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/openai" alt="chatgpt" width="40" height="40"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/021/059/827/non_2x/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" alt="chatgpt" width="40" height="40"/>
   </a>
 
   <a href="https://openai.com/codex/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/openai" alt="codex" width="40" height="40"/>
+    <img src="https://zonalogo.com/assets/codex-logo.webp" alt="codex" width="40" height="40"/>
   </a>
 
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
