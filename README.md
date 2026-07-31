@@ -71,11 +71,11 @@ I am a Full Stack AI Developer <img src="https://media.giphy.com/media/WUlplcMpO
   </a>
 
   <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/trychroma/trychroma-icon.svg" alt="chromadb" width="40" height="40"/>
+    <img src="https://miro.medium.com/v2/0*RTW5byy6eH_eSWTP.png" alt="chromadb" width="40" height="40"/>
   </a>
 
   <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/pinecone" alt="pinecone" width="40" height="40"/>
+    <img src="https://meta-q.cdn.bubble.io/f1740086062500x125193092753054460/Pinecone-Logo-2327051645.png" alt="pinecone" width="40" height="40"/>
   </a>
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
